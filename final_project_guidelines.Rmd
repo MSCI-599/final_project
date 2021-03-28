@@ -3,6 +3,10 @@ title: "Final Project Guidelines"
 output: html_document
 ---
 
+<span style="color:red">
+Graded 2021-3-27:  10/10 pts. Looking forward to it!
+</span>
+
 *** 
 
 ### Final project proposal (10 pts)
